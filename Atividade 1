@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lebron</title>
+</head>
+<body>
+    <!-- Aqui está o titulo, subtitulos e o paragrafo com uma breve descrição do tema -->
+    <h1>Lebron james</h1>
+    <h2>Seu nome completo é LeBron Raymone James</h2>
+    <p>LeBron James é um dos maiores jogadores da história do basquete mundial, com uma trajetória marcada por recordes de longevidade, quatro títulos da NBA e três medalhas de ouro olímpicas.</p>
+    <h3>Atualmente joga no philadelphia 76ers, mas ja jogou no:</h3>
+    <!-- A lista não ordenada -->
+    <ul>
+        <li>Los Angeles Lakers</li>
+        <li>Miami Heat</li>
+        <li>Cleveland Cavaliers</li>
+    </ul>
+    <h3>Status:</h3>
+    <!-- Lista ordenada -->
+    <ol>
+        <li>joga de Ala</li>
+        <li>tem 2,06m</li>
+        <li>tem 41 anos</li>
+    </ol>
+    <!-- Link do status do lebron james -->
+    <a href="https://www.espn.com.br/nba/jogador/_/id/1966/lebron-james" target="_blank">Mais sobre Lebron James</a>
+    <br>
+    <!-- Link interno -->
+    <a href="lebron.html">Link interno</a>
+    <!-- Imagem do lebron james -->
+    <img src="https://images7.memedroid.com/images/UPLOADED210/67106e42692f4.jpeg" alt="Lebron na faculdade ">
+
+</body>
+</html>
