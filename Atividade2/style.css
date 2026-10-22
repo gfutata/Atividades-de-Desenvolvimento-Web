@@ -1,0 +1,82 @@
+/* usando body para colocar cor no fundo da pagina */
+body {
+    background-color: #FFFFF0;
+}
+
+/* colocando o texto no centro e mundando a cor e fonte do texto*/
+header {
+    color: #234F70;
+    font-family: "Lobster Two", sans-serif;
+    text-align: center;
+}
+
+/* mudando a cor do h3 */
+h3 {
+    color: #132103;
+}
+
+/* aumentando o tamanho do titulo */
+h1 {
+    font-size: 50px;
+}
+
+/* ultilizando o id mais para mudar a cor e colocar uma linha embaixo do texto */
+#mais {
+    color: #4923CA;
+    text-decoration: underline;
+}
+
+/* ultilizando a classe sobre para adicionar uma box */
+.sobre {
+    padding: 20px;
+    background-color: #F0C26A;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* ultilizando a classe trajetoria para adicionar uma box */
+.trajetoria {
+    padding: 20px;
+    background-color: #F0C26A;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* ultilizando a classe perfil para adicionar uma box */
+.perfil {
+    padding: 20px;
+    background-color: #F0C26A;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* ultilizando a classe saibamais para adicionar uma box */
+.saibamais {
+    padding: 20px;
+    background-color: #98848D;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* colocando o texto do rodape no centro da pagina */
+footer {
+    text-align: center;
+}
+
+/* estilização da lista conforme ensinada em aula */
+ol,
+ul {
+    margin-left: 20px;
+}
+
+/* deixando o paragrafo alinhado com as listas */
+p {
+    margin: 0px;
+    margin-left: 20px;
+}
+
+/* adicionar efeito de quando passa o mouse por cima */
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
