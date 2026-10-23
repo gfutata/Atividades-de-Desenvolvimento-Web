@@ -32,6 +32,8 @@ h1 {
     background-color: #F0C26A;
     border-radius: 10px;
     margin-bottom: 15px;
+    border: 2px solid #234F70;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* ultilizando a classe trajetoria para adicionar uma box */
@@ -40,6 +42,8 @@ h1 {
     background-color: #F0C26A;
     border-radius: 10px;
     margin-bottom: 15px;
+    border: 2px solid #234F70;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* ultilizando a classe perfil para adicionar uma box */
@@ -48,6 +52,8 @@ h1 {
     background-color: #F0C26A;
     border-radius: 10px;
     margin-bottom: 15px;
+    border: 2px solid #234F70;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* ultilizando a classe saibamais para adicionar uma box */
@@ -56,6 +62,8 @@ h1 {
     background-color: #98848D;
     border-radius: 10px;
     margin-bottom: 15px;
+    border: 2px solid #234F70;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* colocando o texto do rodape no centro da pagina */
